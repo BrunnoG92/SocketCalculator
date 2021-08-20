@@ -1,0 +1,30 @@
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket___Cliente.Form1.resources
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket___Cliente.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\bin\Debug\Socket - Cliente.exe.config
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\bin\Debug\Socket - Cliente.exe
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\bin\Debug\Socket - Cliente.pdb
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket - Cliente.exe
+C:\Users\Bruno\Desktop\Sokcets\Socket - Cliente\obj\Debug\Socket - Cliente.pdb
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\bin\Debug\Socket - Cliente.exe.config
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\bin\Debug\Socket - Cliente.exe
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\bin\Debug\Socket - Cliente.pdb
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket___Cliente.Form1.resources
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket___Cliente.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.exe
+C:\Users\Bruno\Desktop\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.pdb
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\bin\Debug\Socket - Cliente.exe.config
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\bin\Debug\Socket - Cliente.exe
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\bin\Debug\Socket - Cliente.pdb
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket___Cliente.Form1.resources
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket___Cliente.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.exe
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket - Cliente\obj\Debug\Socket - Cliente.pdb

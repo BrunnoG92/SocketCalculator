@@ -1,0 +1,29 @@
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\bin\Debug\Socket-Servidor.exe.config
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\bin\Debug\Socket-Servidor.exe
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\bin\Debug\Socket-Servidor.pdb
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.AssemblyReference.cache
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket_Servidor.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket-Servidor.exe
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket-Servidor.pdb
+C:\Users\Bruno\Desktop\Sokcets\Socket-Servidor\obj\Debug\Socket_Servidor.Form1_Servidor.resources
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\bin\Debug\Socket-Servidor.exe.config
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\bin\Debug\Socket-Servidor.exe
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\bin\Debug\Socket-Servidor.pdb
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\obj\Debug\Socket_Servidor.Form1_Servidor.resources
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\obj\Debug\Socket_Servidor.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.exe
+C:\Users\Bruno\Desktop\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.pdb
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\bin\Debug\Socket-Servidor.exe.config
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\bin\Debug\Socket-Servidor.exe
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\bin\Debug\Socket-Servidor.pdb
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket_Servidor.Form1_Servidor.resources
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket_Servidor.Properties.Resources.resources
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.GenerateResource.cache
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.exe
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.pdb
+C:\Users\Bruno\Desktop\Trab Julio\Sockets\Socket-Servidor\obj\Debug\Socket-Servidor.csproj.AssemblyReference.cache
